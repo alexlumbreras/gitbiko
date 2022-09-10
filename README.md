@@ -1,3 +1,2 @@
 # gitbiko
-sergi y alex
-XD
+alex
